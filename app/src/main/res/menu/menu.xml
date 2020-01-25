@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="list country"
+    android:id="@+id/mi_list_country"/>
+
+    <item android:title="card country"
+    android:id="@+id/mi_card_country"/>
+</menu>
